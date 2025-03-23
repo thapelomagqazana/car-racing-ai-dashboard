@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+migrations/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# FastAPI & Python dependencies
+*.egg-info/
+dist/
+build/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Docker
+docker-compose.override.yml

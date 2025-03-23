@@ -1,0 +1,13 @@
+fastapi[all]
+uvicorn
+psycopg2-binary
+sqlalchemy
+alembic
+tensorflow
+torch
+torchvision
+onnxruntime
+numpy
+aioredis
+fastapi-cache2
+websockets
